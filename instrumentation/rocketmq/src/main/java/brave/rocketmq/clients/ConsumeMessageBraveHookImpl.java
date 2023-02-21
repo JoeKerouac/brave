@@ -22,6 +22,7 @@ import org.apache.rocketmq.common.message.MessageConst;
 import org.apache.rocketmq.common.message.MessageExt;
 
 /**
+ *
  * @author JoeKerouac
  * @date 2023-01-09 15:02
  */
